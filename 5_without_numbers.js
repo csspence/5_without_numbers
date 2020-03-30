@@ -7,5 +7,5 @@ Good luck :)
 */
 
 const unusualFive = () =>{
-  return (f-a);
+  return ('fiver'.length);
 }
